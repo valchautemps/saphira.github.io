@@ -1,0 +1,21 @@
+body {
+  background-color: #FFFF;
+}
+
+body header h1 {
+  color: #D86A7E;
+}
+
+body main .formulario {
+  background-color: #fff9fc;
+}
+
+body main .formulario fieldset {
+  color: #D86A7E;
+}
+
+.marcaFooter {
+  background-color: #0000;
+  width: 100%;
+}
+/*# sourceMappingURL=contacto.css.map */

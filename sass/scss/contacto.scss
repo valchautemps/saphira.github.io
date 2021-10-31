@@ -1,0 +1,27 @@
+$white:#FFFF;
+$black:#0000;
+$ancho:100%;
+$colorh1: #D86A7E;
+$colorbackground:#fff9fc;
+
+
+body{
+    background-color: $white;
+    header{
+        h1{
+            color: $colorh1;
+        }
+    }
+    main{
+        .formulario{
+            background-color: $colorbackground;
+            fieldset{
+                color: $colorh1;
+            }
+        }
+    }
+}
+.marcaFooter{
+    background-color: $black;
+    width: ($ancho);
+}
